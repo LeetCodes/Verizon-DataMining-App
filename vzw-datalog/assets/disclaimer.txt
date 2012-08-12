@@ -1,0 +1,30 @@
+Disclaimer:
+
+By installing this application you agree to the following:
+
+1. A Background Service will be running possibly consuming your phone's computing resources and battery (Not much, we made it as efficient as possible).
+
+2. The service will monitor the dialer for incoming and outgoing calls, and even though no number will be saved, it is used to monitor if a finished call might be a drop call.
+
+3. The service may periodically retrieve information about your phone and this information will be send to a private server where it will be then analyzed. By 'analyzed' we mean comparing it without other data from different phones to come up with possible solutions to provide a better service.
+
+However, one can also decide not to upload its data periodically by disabling the 'Automatic Submissions' option in the Settings Menu. In such menu settings one can also Op-out from sending certain information. But even though certain information will always be retrieve, the list of information retrieved is as follow:
+1.	Phone's IMEI (Identifier)
+2.	Phone's Number
+3.	Longitude (Optional)
+4.	Latitude (optional)
+5.	Altitude (Optional)
+6.	Signal Strength (Optional)
+7.	Signal Type (Optional)
+8.	Android Version
+9.	Android Kernel
+10.	E-mail (Optional)
+11.	Message (Optional)
+12.	Amount of Free Memory (Optional)
+13.	Amount of SD Storage Capacity (Optional)
+14.	Amount of Drop Calls (Optional)
+
+Upon submitting data and if one decides to includes a valid e-mail address, such e-mail address will receive and e-mail with the information that was successfully retrieved.
+
+Thank you for your cooperation, if you have any doubts please contact us at:
+UPRM's Android Team - android@lists.yapr.org
